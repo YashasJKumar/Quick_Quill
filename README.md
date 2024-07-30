@@ -20,7 +20,7 @@
 ## Pre-requisites : 
 
 - To run this application yourself, you need a Groq API Key.
-- You can get it from here : ![Groq](https://console.groq.com/keys)
+- You can get it from here : **[Groq](https://console.groq.com/keys)**
 
 ## Installation
 
@@ -58,7 +58,7 @@ Once the application is running, you can interact with Quick Quill via the provi
 
 ## Snapshot
 
-<img width="1470" alt="Screenshot 2024-07-30 at 2 32 01 PM" src="https://github.com/user-attachments/assets/3e6db9e4-0128-41e8-bf02-61ddba87b193">
+<img width="1451" alt="Screenshot 2024-07-30 at 2 32 01 PM" src="https://github.com/user-attachments/assets/1301c5ad-ce2a-448d-827a-956d601e7922">
 
 ## Contributing
 

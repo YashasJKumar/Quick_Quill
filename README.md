@@ -3,7 +3,7 @@
 
 - “Quick Quill” combines the idea of speed (“Quick”) with a traditional writing instrument (“Quill”), symbolizing rapid and efficient generation of text or conversation. The name suggests that your chatbot can swiftly produce high-quality responses, much like how a skilled writer would quickly draft eloquent prose.
 
-![Quick Quill Logo](https://via.placeholder.com/150)
+![Quick Quill Logo](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Groq.png)
 
 ## Project Description
 
@@ -16,6 +16,11 @@
 - **Open Source:** Fully open-source, allowing for community contributions and transparency.
 - **Scalable:** Easily scalable to handle a large number of concurrent users.
 - **Customizable:** Flexible architecture to allow for easy customization and integration with various platforms.
+
+## Pre-requisites : 
+
+- To run this application yourself, you need a Groq API Key.
+- You can get it from here : ![Groq](https://console.groq.com/keys)
 
 ## Installation
 

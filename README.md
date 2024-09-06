@@ -1,7 +1,7 @@
 
 # Quick Quill
 
-- “Quick Quill” combines the idea of speed (“Quick”) with a traditional writing instrument (“Quill”), symbolizing rapid and efficient generation of text or conversation. The name suggests that your chatbot can swiftly produce high-quality responses, much like how a skilled writer would quickly draft eloquent prose.
+- “Quick Quill” combines the idea of speed (“Quick”) with a traditional writing instrument (“Quill”), symbolizing rapid and efficient generation of text or conversation. The name suggests that our chatbot can swiftly produce high-quality responses, much like how a skilled writer would quickly draft eloquent prose.
 
 ![Quick Quill Logo](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Groq.png)
 
